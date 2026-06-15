@@ -99,3 +99,21 @@ ros2 service list | grep -E 'analyze|verify'
 ros2 action list | grep approach
 ros2 topic echo /delivery_status
 ```
+## 🎥 Demo
+
+### Full Delivery Process
+<!-- Drag & drop your video here, or paste a YouTube link -->
+
+### Screen Recording (Receipt Recognition → Navigation → Bell Pressing)
+<!-- Drag & drop your screen recording here -->
+
+## 📊 Results
+
+* **Receipt Recognition**: Accurately extracts the destination (room number) from the receipt using a VLM.
+* **Autonomous Navigation**: Successfully navigates to the designated destination using Nav2.
+* **Bell Pressing**: Recognizes the doorbell location via VLM upon arrival, then approaches and presses it.
+* **Return Home**: Automatically returns to the home position after delivery is complete.
+
+https://github.com/user-attachments/assets/262ab007-8418-433a-b4a0-f6de129939ce
+
+
