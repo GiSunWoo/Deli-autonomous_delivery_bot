@@ -1,6 +1,7 @@
 # DeLi
 Robot Programming Team4  
 김지성 김민서 임성우 지선우
+<img width="1213" height="676" alt="image" src="https://github.com/user-attachments/assets/aabcae7b-4dd2-4e14-bb3f-124b7b1005dc" />
 
 ## Environment
 - **Robot**: TurtleBot3 Burger
