@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/56a4a60f-cf69-4e28-9a00-7aceae627f09
-
-
-
-
-
 # DeLi
 Robot Programming Team4  
 김지성 김민서 임성우 지선우
@@ -110,9 +102,8 @@ ros2 topic echo /delivery_status
 ## 🎥 Demo
 
 ### Full Delivery Process
-<!-- Drag & drop your video here, or paste a YouTube link -->
 
-https://drive.google.com/file/d/1_kRApEpx36bySi6I3hjGGDhhiyDWHQu0/edit
+https://github.com/user-attachments/assets/56a4a60f-cf69-4e28-9a00-7aceae627f09
 
 ### Screen Recording (Receipt Recognition → Navigation → Bell Pressing)
 
